@@ -18,7 +18,7 @@ A modern Android news application built with RecyclerViews and Fragments that di
 | Home Screen | News Detail |
 |-------------|-------------|
 | ![Home](news_app_homepage.png) | ![Detail](news_app_news_info.png) |
-| ![Home 2](news_app_homepage2.png) | ![Related](news_app_related news.png) |
+| ![Home 2](news_app_homepage2.png) | ![Related](news_app_related_news.png) |
 
 ## Technical Implementation ⚙️
 
