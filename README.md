@@ -43,4 +43,4 @@ A modern Android news application built with RecyclerViews and Fragments that di
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/news-app.git
+   git clone https://github.com/SubhashSainani/news-app.git
