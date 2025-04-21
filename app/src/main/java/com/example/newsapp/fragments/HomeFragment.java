@@ -141,12 +141,6 @@ public class HomeFragment extends Fragment {
         newsList.add(new News("8", "NASA Confirms Evidence of Microbial Life on Mars",
                 "Perseverance rover discovers organic compounds in Jezero Crater samples",
                 "https://images.unsplash.com/photo-1454789548928-9efd52dc4031", "Science", "April 8, 2025", false));
-
-// Environment
-        newsList.add(new News("9", "Great Barrier Reef Shows Strongest Recovery in Decades",
-                "Coral coverage reaches 40% after successful conservation efforts",
-                "https://images.unsplash.com/photo-1518562180175-34a163b1c9d9", "Environment", "April 7, 2025", false));
-
 // Culture
         newsList.add(new News("10", "Van Gogh Painting Sells for $250 Million at Private Auction",
                 "The previously unknown work was discovered in a French attic last year",
